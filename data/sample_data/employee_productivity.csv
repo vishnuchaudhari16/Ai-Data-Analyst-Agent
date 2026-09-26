@@ -1,0 +1,16 @@
+Emp_ID,Name,Department,Role,Salary,Experience_Years,Projects_Completed,Tasks_Completed,Hours_Worked,Productivity_Score,Remote_Ratio
+EMP-01,Alice Smith,Engineering,Senior Dev,115000,8,14,142,165,92.5,0.8
+EMP-02,Bob Jones,Sales,Account Exec,72000,4,8,89,160,78.0,0.2
+EMP-03,Charlie Brown,Marketing,Specialist,65000,3,6,74,155,75.2,0.5
+EMP-04,Diana Prince,Engineering,Lead Dev,135000,10,18,185,170,96.8,0.6
+EMP-05,Evan Wright,HR,Generalist,58000,2,4,52,150,71.0,0.0
+EMP-06,Fiona Gallagher,Sales,Sales Manager,98000,7,12,130,168,88.4,0.3
+EMP-07,George Clark,Engineering,Junior Dev,70000,1,3,45,160,68.5,1.0
+EMP-08,Hannah Abbott,Marketing,Manager,92000,6,11,115,162,85.0,0.4
+EMP-09,Ian Malcolm,Data Science,Data Scientist,125000,5,10,120,165,91.0,0.8
+EMP-10,Julia Roberts,Engineering,DevOps Engineer,110000,6,12,140,172,89.5,0.7
+EMP-11,Kevin Bacon,Sales,Account Rep,60000,2,5,60,158,72.3,0.1
+EMP-12,Laura Croft,Data Science,Senior Analyst,105000,7,13,148,160,94.1,0.9
+EMP-13,Michael Scott,HR,Manager,85000,12,7,80,145,62.0,0.2
+EMP-14,Nina Williams,Engineering,QA Lead,95000,5,9,110,160,86.2,0.5
+EMP-15,Oscar Martinez,Finance,Senior Accountant,88000,8,10,125,165,89.0,0.4

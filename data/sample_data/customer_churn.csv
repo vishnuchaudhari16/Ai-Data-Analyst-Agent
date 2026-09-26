@@ -1,0 +1,16 @@
+Customer_ID,Gender,Senior_Citizen,Tenure_Months,Contract_Type,Payment_Method,Monthly_Charges,Total_Charges,Support_Tickets,Churn
+CUST-101,Female,0,12,Month-to-Month,Credit Card,65.50,786.00,3,1
+CUST-102,Male,0,34,One Year,Bank Transfer,45.20,1536.80,1,0
+CUST-103,Female,1,2,Month-to-Month,Electronic Check,89.90,179.80,5,1
+CUST-104,Male,0,60,Two Year,Credit Card,105.00,6300.00,0,0
+CUST-105,Female,0,24,One Year,Bank Transfer,55.00,1320.00,2,0
+CUST-106,Male,0,5,Month-to-Month,Electronic Check,75.30,376.50,4,1
+CUST-107,Female,0,48,Two Year,Credit Card,92.10,4420.80,1,0
+CUST-108,Male,1,8,Month-to-Month,Electronic Check,82.40,659.20,6,1
+CUST-109,Female,0,18,One Year,Bank Transfer,40.00,720.00,0,0
+CUST-110,Male,0,1,Month-to-Month,Electronic Check,70.00,70.00,2,1
+CUST-111,Female,0,52,Two Year,Credit Card,115.50,6006.00,0,0
+CUST-112,Male,0,15,Month-to-Month,Bank Transfer,60.80,912.00,2,0
+CUST-113,Female,1,3,Month-to-Month,Electronic Check,95.00,285.00,7,1
+CUST-114,Male,0,72,Two Year,Credit Card,85.00,6120.00,0,0
+CUST-115,Female,0,28,One Year,Bank Transfer,50.40,1411.20,1,0
